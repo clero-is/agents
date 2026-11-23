@@ -1,0 +1,13 @@
+{
+  "name": "clero-agents",
+  "owner": {
+    "name": "clero-is"
+  },
+  "plugins": [
+    {
+      "name": "clero",
+      "source": "./plugins/clero",
+      "description": "Your brand as data, over MCP, with one sign-in."
+    }
+  ]
+}
